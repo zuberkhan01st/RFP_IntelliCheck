@@ -1,0 +1,10 @@
+streamlit
+pandas
+pillow
+python-dotenv
+pdfplumber
+openai
+langchain
+pinecone-client
+spacy
+tiktoken
