@@ -13,7 +13,7 @@ RFP IntelliCheck is an intelligent RFP (Request for Proposal) analyzer built to 
 ## Technologies Used
 
 - **AI Models**: Gemini Pro, LangGraph
-- **Backend**: Python, LangChain
+- **Backend**: Python, LangChain, Flask
 - **Frontend**: React.js, Streamlit
 - **APIs**: Gemini APIs
 - **Orchestration**: Custom Agent System
